@@ -7,7 +7,7 @@ apt update && apt upgrade -y
 
 git clone https://github.com/Adrriiee/Tercerintento
 
-cd Bin_Resucitate
+cd Tercerintento
 
 chmod 777 Bin_Resucitate.sh
 
